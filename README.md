@@ -36,6 +36,6 @@ The image below show the application's appearance and functionality:
 ## Links
 
 ### Please Visit [My GitHub Repo Link](https://github.com/RepoPanda/jate)
-### Please Visit [My Deployed Heroku Pages link](https://repopanda-jate-084b18d03c15.herokuapp.com)
+### Please Visit [My Deployed Heroku app link](https://repopanda-jate-084b18d03c15.herokuapp.com)
 
 
